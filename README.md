@@ -15,7 +15,7 @@ You can access the data set from here: Bike Sharing Dataset Data Set
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 </p>
 
-
+![Screenshot_2](https://user-images.githubusercontent.com/30608533/54309417-260f3600-45e1-11e9-99bd-77e016e10f33.jpg)
 
 ## 2. Convolutional Neural Network (CNN) project
 <p>
