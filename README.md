@@ -37,7 +37,7 @@ I used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I  built
 In this project, I used generative adversarial networks (GANs) to generate new images of faces.
 </p>
 
-
+![b](https://user-images.githubusercontent.com/30608533/54310545-adf63f80-45e3-11e9-9804-83baef03cf1e.jpg)
 ## 5. SageMaker deployment project (AWS SageMaker)
 <p>
 In this project, I constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. I created this model using Amazon's SageMaker service. 
