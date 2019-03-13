@@ -1,5 +1,6 @@
 # deep-learning-nanodegree
-Udacity Deep Learning Nanodegree Projects
+
+# &#x1F4D8; Udacity Deep Learning Nanodegree Projects
 
 These are my five projects implemented during the Udacity Deep Learning Nanodegree Program.
  
