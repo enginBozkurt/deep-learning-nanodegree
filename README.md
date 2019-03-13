@@ -24,7 +24,7 @@ If supplied an image of a human face, the code will identify the resembling dog 
 </p>
 
 
-
+![Screenshot_1](https://user-images.githubusercontent.com/30608533/54310070-92d70000-45e2-11e9-96e0-07bb5b5f60b0.jpg)
 ## 3. Generate TV Scripts
 <p>
 In this project, I generated my own Seinfeld TV scripts using RNNs. 
