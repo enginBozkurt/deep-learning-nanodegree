@@ -31,7 +31,7 @@ In this project, I generated my own Seinfeld TV scripts using RNNs.
 I used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I  built generated a new, "fake" TV script.
 </p>
 
-
+![a](https://user-images.githubusercontent.com/30608533/54310391-5657d400-45e3-11e9-9cd5-6d3af1cfb71b.jpg)
 ## 4.Face Generation
 <p>
 In this project, I used generative adversarial networks (GANs) to generate new images of faces.
