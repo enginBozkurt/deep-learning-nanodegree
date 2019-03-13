@@ -4,7 +4,7 @@
 
 These are my five projects implemented during the Udacity Deep Learning Nanodegree Program.
  
-
+![Screenshot_3](https://user-images.githubusercontent.com/30608533/54309612-89996380-45e1-11e9-99b5-e6f6ac6997b4.jpg)
   
 ## 1. Predicting Bike-Sharing Data
 <p>
